@@ -35,10 +35,15 @@ The following steps are required to run properly this project:
   
   (-d means the delay for serving data, and -p it's the port where files are going to be serve)
   
- 4- Finally go back to the root folder of this project (react-course-project) in your terminal and run this command: 
+ 4- Finally keep the json server up and running and open a new terminal at the root folder of this project (react-course-project, where package.json is located) and run this command: 
  
       npm start
     
    Now after a few seconds your project should be up and running in your browser, typically at localhost:3000.
    
    That's all :D
+   
+   pd: if you're too lazy to do all the setup go here to have a quick preview: https://codesandbox.io/s/reacttest-7b2nk
+       caveat: Currently the code need a small change to make it work properly, right now it won't load some data in the UI,
+               i'll make a small update to fix that soon.
+               
