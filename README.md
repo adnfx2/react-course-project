@@ -1,4 +1,4 @@
-This project make heavy use of the following libraries:
+This project makes heavy use of the following libraries:
 
     "bootstrap"
     "bootstrap-social"
