@@ -29,7 +29,7 @@ The following steps are required to run properly this project:
 
       npm install -g json-server
 
-3- Now in your terminal go to json-server folder correspondant to this project and run the following command:
+3- Now in your terminal go to JSON-server folder correspondent to this project and run the following command:
   
       json-server --watch db.json -d 2000 -p 3001
   
