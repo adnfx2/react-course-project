@@ -29,7 +29,7 @@ The following steps are required to run properly this project:
 
       npm install -g json-server
 
-3- Now in your terminal go to JSON-server folder correspondent to this project and run the following command:
+3- Now in your terminal go to "JSON-server" folder correspondent to this project and run the following command:
   
       json-server --watch db.json -d 2000 -p 3001
   
@@ -39,6 +39,6 @@ The following steps are required to run properly this project:
  
       npm start
     
-   Now after a few seconds your project should be running in your browser typically localhost:3000.
+   Now after a few seconds your project should be up and running in your browser, typically at localhost:3000.
    
    That's all :D
